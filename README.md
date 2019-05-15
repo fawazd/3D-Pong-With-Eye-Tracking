@@ -42,12 +42,12 @@ https://www.youtube.com/watch?v=BP0TucYDPcI
 
 ## Versioning
 
-Unity 2018.3.11f1
-Tobii Unity SDK 1.6
+- Unity 2018.3.11f1
+- Tobii Unity SDK 1.6
 
 ## Authors
 
-* **Fawaz Khan Dinnunhan**
+* **Fawaz Dinnunhan**
 
 
 ## Acknowledgments
