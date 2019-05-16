@@ -48,8 +48,3 @@ https://www.youtube.com/watch?v=BP0TucYDPcI
 ## Authors
 
 * **Fawaz Dinnunhan**
-
-
-## Acknowledgments
-
-* David Rozado, project supervisor
